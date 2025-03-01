@@ -1,21 +1,11 @@
 # 🌟 Team Mini Projects - JavaScript Repository 🚀
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-Welcome to **Team Mini Projects - JS**! 🎉 This repository is a collection of fun, interactive, and educational **JavaScript-based** mini-projects built collaboratively by our team.
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## 📌 Table of Contents
-- [About the Project](#about-the-project)
-- [Tech Stack](#tech-stack)
-- [Project List](#project-list)
-- [Installation Guide](#installation-guide)
-- [Contribution Guidelines](#contribution-guidelines)
-- [Screenshots](#screenshots)
-- [License](#license)
-
----
+Welcome to **Team Mini Projects - JS**! 🎉 This repository is a collection of fun, interactive, and educational **JavaScript-based** mini-projects built collaboratively by our team of **4 developers**.
 
 ## 📖 About the Project
-This repository contains multiple **mini-projects** designed to enhance our **JavaScript, HTML, and CSS** skills. Each project is standalone and demonstrates a unique concept or feature in **web development**.
+This repository contains multiple **mini-projects** designed to enhance our **JavaScript, HTML, and CSS** skills. Each project is standalone and demonstrates a unique concept or feature in **web development**. These projects are contributed by **4 team members** working together to create useful applications.
 
 ## 🛠 Tech Stack
 | Technology  | Logo |
@@ -23,15 +13,15 @@ This repository contains multiple **mini-projects** designed to enhance our **Ja
 | JavaScript | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
 | HTML5 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) |
 | CSS3 | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
-| Node.js | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) |
 
 ## 📂 Project List
-| Project Name | Description | Live Demo |
-|-------------|------------|-----------|
-| **To-Do App** | A simple task manager with local storage | [Live](#) |
-| **Weather App** | Fetches real-time weather data from an API | [Live](#) |
-| **Calculator** | A basic calculator using JavaScript functions | [Live](#) |
-| **Quiz Game** | An interactive quiz with multiple-choice questions | [Live](#) |
+| Project Name | Description | Coder | Tech Stack |
+|-------------|------------|-------|-----------|
+| **To-Do App** | A simple task manager with local storage that allows users to add, delete, and mark tasks as completed. | @User1 | HTML, CSS, JS |
+| **Weather App** | Fetches real-time weather data from an API and displays temperature, humidity, and forecasts. | @User2 | HTML, CSS, JS, API |
+| **Quiz Game** | An interactive quiz with multiple-choice questions, timer, and score tracking. | @User3 | HTML, CSS, JS |
+| **Expense Tracker** | A budgeting tool to track daily expenses and savings with graphical analysis. | @User4 | HTML, CSS, JS, Local Storage |
+| **E-commerce App** | A simple online store with product listings, shopping cart, and checkout system. | @User1 | HTML, CSS, JS |
 
 ## 🛠 Installation Guide
 To run any of these projects locally, follow these steps:
@@ -46,7 +36,11 @@ cd TeamMiniProjects-JS
 # Open index.html in a browser
 ```
 
-Alternatively, use **Live Server** in VS Code for the best experience.
+Alternatively, use **Live Server** in VS Code for the best experience:
+```bash
+# Install Live Server Extension in VS Code
+# Right-click on index.html and select 'Open with Live Server'
+```
 
 ## 🌍 Contribution Guidelines
 We welcome contributions! 🚀 To contribute:
@@ -54,20 +48,8 @@ We welcome contributions! 🚀 To contribute:
 2. **Create a new branch**: `git checkout -b feature-name`
 3. **Commit your changes**: `git commit -m "Added a new feature"`
 4. **Push to the branch**: `git push origin feature-name`
-5. **Create a Pull Request**
-
-For detailed guidelines, check our **CONTRIBUTING.md**.
-
-## 📸 Screenshots
-| Project | Preview |
-|---------|---------|
-| To-Do App | ![To-Do App](https://via.placeholder.com/200x100) |
-| Weather App | ![Weather App](https://via.placeholder.com/200x100) |
-
-## 📜 License
-This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for more details.
+5. **Create a Pull Request`
 
 ---
 
 🚀 **Happy Coding!** 🎨✨
-
